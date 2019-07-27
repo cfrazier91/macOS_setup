@@ -6,7 +6,7 @@ with a new machine.\
 **Disclaimer:** I am not a DevOps or Software Engineer, this is only meant to be helpful; I am sure there is room for improvement!
 
 ## Instructions:
-**Download & execute osx_install.sh which will do the following:**
+**Download & execute setup.sh which will do the following:**
 
 ### 1. Create & add new ssh key to GitHub
 In order to start using git on your new machine, you'll need to create a new SSH
