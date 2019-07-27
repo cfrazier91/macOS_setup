@@ -1,4 +1,4 @@
-# A simple OSX setup for a data scientist/engineer.
+# A simple macOS setup for a data scientist/engineer.
 This is a simple bash script to help automate the setup of a new mac computer.
 I hope this serves as a helpful resource for a data scientist/engineer that
 is looking for a simple, lightweight, and easy setup to hit the ground running
@@ -65,7 +65,7 @@ These pacakges will help you hit the ground running:
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 
 
-# Install macOS applications vis Cask
+# Install macOS applications via Brew Cask
 * [google-chrome](https://www.google.com/chrome/) - My favorite web browser.
 * [lastpass](https://www.lastpass.com/hp) My favorite password manager.
 * [pycharm-ce](https://www.jetbrains.com/pycharm/) My favorite ide (for python).
