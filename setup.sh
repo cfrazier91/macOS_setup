@@ -69,12 +69,14 @@ pip3 install virtualenv
 pip3 install virtualenvwrapper
 
 # Install applications
+brew cask install --appdir="/Applications" flux
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" lastpass
 brew cask install --appdir="/Applications" pycharm-ce
 brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" slack
 brew cask install --appdir="/Applications" spotify
+brew cask install --appdir="/Applications" spectacle
 brew cask install --appdir="/Applications" sublime-text
 
 # brew cleanup
